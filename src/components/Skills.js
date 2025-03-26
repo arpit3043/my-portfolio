@@ -33,25 +33,37 @@ export const Skills = () => {
                     <div className="col-12">
                         <div className="skill-bx wow zoomIn">
                             <h2>Skills</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem
-                                Ipsum has been the industry's standard dummy text.</p>
+                            <p>
+                                I specialize in backend development, microservices, and real-time communication systems, leveraging Python, Java, and C++.
+                                With expertise in FastAPI, Spring Boot, Kubernetes, and AWS, I design scalable and high-performance applications.
+                                My experience includes databases (PostgreSQL, MongoDB, Redis), messaging systems (Kafka, WebRTC, Janus), and DevOps (Docker, Terraform, Jenkins),
+                                ensuring reliability and efficiency in production systems.
+                            </p>
                             <Carousel responsive={responsive} infinite={true}
                                       className="owl-carousel owl-theme skill-slider">
                                 <div className="item">
-                                    <img src={meter1} alt="Image"/>
-                                    <h5>Web Development</h5>
+                                    <img src={meter3} alt="Image"/>
+                                    <h5>Backend Development</h5>
                                 </div>
                                 <div className="item">
                                     <img src={meter2} alt="Image"/>
-                                    <h5>Brand Identity</h5>
+                                    <h5>Cloud & Infrastructure </h5>
                                 </div>
                                 <div className="item">
                                     <img src={meter3} alt="Image"/>
-                                    <h5>Logo Design</h5>
+                                    <h5>Databases & Caching</h5>
+                                </div>
+                                <div className="item">
+                                    <img src={meter3} alt="Image"/>
+                                    <h5>Messaging Queue & Real-time Communication</h5>
                                 </div>
                                 <div className="item">
                                     <img src={meter1} alt="Image"/>
-                                    <h5>Web Development</h5>
+                                    <h5>Testing & Automation</h5>
+                                </div>
+                                <div className="item">
+                                    <img src={meter2} alt="Image"/>
+                                    <h5>Development & DevOps</h5>
                                 </div>
                             </Carousel>
                         </div>

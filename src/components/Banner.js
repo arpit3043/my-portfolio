@@ -71,10 +71,23 @@ export const Banner = () => {
                                         </span>
                                     </h1>
                                     <p>
-                                        I'm a passionate Software Development Engineer with expertise in Python, Java, and modern tech stacks like FastAPI, Springboot, AWS, Kafka and Kubernetes.
-                                        With hands-on experience in building scalable microservices, real-time communication systems, webRTC and backend solutions & problem solving, 
-                                        I also provide full-time mentorship on ProPeers and Topmate to guide aspiring developers. 
-                                        Explore my projects and achievements on GitHub, Medium, and LinkedIn to learn more about my journey.
+                                        🚀 Software Development Engineer | Scalable Systems & Real-time Communication
+                                        I'm a Software Development Engineer with a deep expertise in Python, Java, and C++, specializing in backend development, microservices, and real-time communication systems.
+                                        My technical skills span:
+                                        🔹 Backend & APIs: FastAPI, Spring Boot, Django, Node.js, REST APIs
+
+                                        🔹 Cloud & Infrastructure: AWS, Kubernetes, Docker, Terraform, Airflow
+
+                                        🔹 Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis, PL/SQL
+
+                                        🔹 Messaging & Streaming: Kafka, WebRTC, Janus, Nginx
+
+                                        🔹 Testing & Automation: Selenium, Vegeta, Appium, Mocha
+
+                                        🔹 Development & DevOps: Git, Jenkins, Agile, SOLID Principles, Design Patterns
+                                        I have hands-on experience in building scalable, high-performance microservices, optimizing system reliability, and integrating real-time voice & video communication solutions.
+                                        Beyond engineering, I’m a passionate mentor—guiding aspiring developers full-time on ProPeers and Topmate.
+                                        📌 Explore my projects, blog posts, and achievements on GitHub, Medium, and LinkedIn to learn more about my journey. Let's connect and build the future together! 🚀
                                     </p>
                                     <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle
                                         size={25}/>
